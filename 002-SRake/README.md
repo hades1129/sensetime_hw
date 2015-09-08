@@ -50,7 +50,9 @@ task3
 
 ```$ ruby ./simplerake.rb  test2.rake test4```
 参考输出：
-```F, [2015-09-08T17:50:11.634694 #53015] FATAL -- : The prerequisite doesn't exist for task.```
+```
+F, [2015-09-08T17:50:11.634694 #53015] FATAL -- : The prerequisite doesn't exist for task.
+```
 
 
 
